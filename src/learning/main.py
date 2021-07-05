@@ -1,5 +1,5 @@
 s="""hello
-          how is
+          'how is'
 world"""
 print(s)      
 print(type(s))

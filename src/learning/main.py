@@ -1,2 +1,5 @@
-x=15+20j
-print(x.imag)
+s="""hello
+          how is
+world"""
+print(s)      
+print(type(s))

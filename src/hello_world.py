@@ -5,7 +5,6 @@
 #Bool
 #b=True/False
 #print(b) #zero division error#
-
-#slice operator#
+#slice operator
 s='Himanshu'
 print(s[-5])

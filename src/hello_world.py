@@ -6,5 +6,9 @@
 #b=True/False
 #print(b) #zero division error#
 #slice operator
-s='Himanshu'
-print(s[-5])
+#s='Himanshu'
+#print(len(s))
+#print(s*3)
+
+#type casting or type coersion
+#print(str(10+20j))

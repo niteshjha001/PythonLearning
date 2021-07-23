@@ -1,5 +1,3 @@
-s="""hello
-          'how is'
-world"""
-print(s)      
-print(type(s))
+import keyword
+kwlist = keyword.kwlist
+print(kwlist)

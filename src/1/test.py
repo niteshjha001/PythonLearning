@@ -1,3 +1,3 @@
 x=[10,20,30,40]
-b=byte(x)
-b[0:2]
+b=bytes(x)
+for x in b:print(x)

@@ -1,3 +1,4 @@
-s={10.1:'himans',11.98:'himans'}
-s[10.1]='nitesh'
-print(s)
+#print(~10)
+#00001010------11110101----10001010----1000101
+#a=input("enter1")
+print(10>40 if 40 else 10)

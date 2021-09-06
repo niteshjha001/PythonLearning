@@ -1,5 +1,6 @@
 #none data type
 def f1():
     pass
-def f2(): print('hello how are you')    
+def f2(): print('hello how are you')
+f2()
 f1()
